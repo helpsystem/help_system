@@ -4,7 +4,7 @@ username="$1"
 
 mkdir -p /home/$username/install-software/java
 cd /home/$username/install-software/java
-wget ftp://192.168.99.6/Software/soft-for-linux64/jdk-8u131-linux-x64.tar.gz
+wget http://download1821.mediafire.com/6g29ijqdmnfg/l2x9daii2s3dz8i/jdk-8u131-linux-x64.tar.gz
 cp -r jdk-8u131-linux-x64.tar.gz /home/$username/install-software/java/
 cd /home/$username/install-software/java
  
