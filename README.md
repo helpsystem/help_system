@@ -9,6 +9,9 @@ Note: This application is for Debian Jessie 8
 
 INSTALL STEPS
 
+Note: In some software installation files on FTP scripts are. Recommended that generosity up to download files from the following link and click on the FTP site and link it with the link to the script change.
+https://www.mediafire.com/folder/ysylcqlf5jk5w/soft_debian
+
 1.	The first thing we do all the relevant files downloaded
 2.	To address the desired folder and setup-install scripts run
 
@@ -24,9 +27,10 @@ a.	Software installed: Git , Anaconda, Intelij Idea , Docker,  Java, Slack, Subl
 b.	Now we can logout and the users who have logged in and start work
 
 About Software :
--	Anaconda3-4.3.1-Linux-x86_64
--	IdeaIU-2017.1.2
--	jdk-8u131-linux-x64
--	slack-desktop-2.5.2-amd64
--	sublime-text_build-3126_amd64
+	Anaconda3-4.3.1-Linux-x86_64
+	IdeaIU-2017.1.2
+	jdk-8u131-linux-x64
+	slack-desktop-2.5.2-amd64
+	sublime-text_build-3126_amd64
+
 

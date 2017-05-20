@@ -60,5 +60,5 @@ sudo -u $username -H sh -c "./install-java.sh $username"
 
 
 cd /home/$username/install-software
-wget -O /home/$username/install-software/sublime-text_build-3126_amd64.deb http://download1515.mediafireuserdownload.com/jmi927r4vv6g/upev4cwl4ow2bc4/sublime-text_build-3126_amd64.deb
-sudo dpkg --install sublime-text_build-3126_amd64.deb 
+wget -O /home/$username/install-software/sublime-text_build-3126_amd64.deb Ftp://192.168.99.6/Software/soft-for-linux64/sublime-text_build-3126_amd64.deb
+o dpkg --install sublime-text_build-3126_amd64.deb 

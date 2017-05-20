@@ -9,9 +9,9 @@ cd /home/$username/install-software/slack
 
 echo "===============Download Slack======================="
 
-wget -O /home/$username/install-software/slack/slack-desktop-2.5.2-amd64.deb http://download2098.mediafireuserdownload.com/0mt40pind86g/sllzr3gzd47iz3i/slack-desktop-2.5.2-amd64.deb
+wget -O /home/$username/install-software/slack/slack-desktop-2.5.2-amd64.deb ftp://192.168.99.6/Software/soft-for-linux64/slack-desktop-2.5.2-amd64.deb
 
-#echo "===============Download Slack======================="
+=====Download Slack======================="
 #sudo dpkg update
 #sudo dpkg upgrade
 
